@@ -50,7 +50,7 @@ class App extends JFrame implements ActionListener {
     }
 }
 
-public class Uiex {
+public class dummy_bot {
     public static void main(String[] args) {
         new App();
     }
